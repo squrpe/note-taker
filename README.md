@@ -53,4 +53,5 @@ To use the program, click the 'Get Started' button and you will then be directed
   - Github: [squrpe](https://github.com/squrpe)
 
   Deployment of the project:
-  - [https://github.com/squrpe/note-taker](https://github.com/squrpe/note-taker)
+  - Heroku: https://calm-temple-29184.herokuapp.com/
+  - https://github.com/squrpe/note-taker
