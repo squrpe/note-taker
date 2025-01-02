@@ -15,7 +15,7 @@
 
   ## Built With
 
-  - Javascript
+  - Javascript ES6+
   - Node.js
   - Express.js
 
@@ -28,7 +28,7 @@
           git clone https://github.com/squrpe/note-taker.git
       ```
 
-  You will need to download the suitable extensions for these to run the application in the command line.
+  You will need to download the suitable extensions to run the application in the command line.
   
   2. Install the node modules needed for the project within the terminal
       ```md
