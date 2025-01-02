@@ -41,7 +41,7 @@
 
   ![](./public/assets/img/notetaker.gif)
 
-To use the program, click the 'Get Started' button and you will then be directed to the notes page. To create a new note, simply click the '+' button in the top right and to save that note click the save button, also located in the top right. You will be able able to delete certain notes by clicking on the trash can icon located next to the notes located in the left coloumn.
+To use the program, click the 'Get Started' button and you will then be directed to the notes page. To create a new note, simply click the '+' button in the top right and to save that note click the save button, also located in the top right. You will be able able to delete certain notes by clicking on the trash can icon located next to the notes located in the left column.
 
   To host it via your personal device by using node.js in the command line, prompt the server file with
       ```
