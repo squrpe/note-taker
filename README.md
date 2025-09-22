@@ -54,9 +54,11 @@ To use the program, click the 'Get Started' button and you will then be directed
   
   ## Contact
   
-  Lara Nicole - [grockelara@gmail.com](grockelara@gmail.com)
+  Lara Grocke - [grockelara@gmail.com](grockelara@gmail.com)
   
   Project Link - https://github.com/squrpe/note-taker
+
+  LinkedIn - https://www.linkedin.com/in/laragrocke001
   
   ## License
   
